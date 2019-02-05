@@ -32,5 +32,7 @@ public class Student {
     public void setID(int ID) {
         this.ID = ID;
     }
-
+    public String toString(){
+        return "Student";
+    }
 }
