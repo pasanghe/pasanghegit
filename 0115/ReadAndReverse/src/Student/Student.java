@@ -11,7 +11,7 @@ public class Student {
         this.name = "paul";
         this.ID = 991517263;
     }
-
+// main constructor with name and ID as arguments
     public Student(String name, int ID) {
         this.name = name;
         this.ID = ID;
