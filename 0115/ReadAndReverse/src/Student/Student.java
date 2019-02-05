@@ -1,5 +1,7 @@
 package Student;
-
+/**
+* @author: Sang Heon, Park
+**/
 
 public class Student {
 
