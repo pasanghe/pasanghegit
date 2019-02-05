@@ -5,7 +5,7 @@ public class Student {
 
     private String name;
     private int ID;
-private int maxHours;
+    private int maxHours;
 
     public Student() {
         this.name = "paul";
